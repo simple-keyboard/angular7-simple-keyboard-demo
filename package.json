@@ -26,7 +26,7 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3",
     "rxjs": "^6.3.1",
-    "simple-keyboard": "2.13.4",
+    "simple-keyboard": "latest",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
